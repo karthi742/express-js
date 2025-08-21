@@ -38,7 +38,3 @@ npm start
 * 🚀 Express.js
 * 🗄️ Railway Database (PostgreSQL/MySQL/etc.)
 * 🌐 Render Hosting
-
----
-
-👉 Would you like me to also connect this **README with your React frontend README** (so it shows how frontend + backend work together)?
